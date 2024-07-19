@@ -7,7 +7,7 @@
 - [Uninstallation](#uninstallation)
 
 ## Installation
-1. [Download release here](https://github.com/Texas124/ZZZ-Integrity-Fix-Manual/raw/main/integrity%20patcher.zip)
+1. [Download release here](https://github.com/Texas124/ZZZ-Integrity-Autopatch-Release/raw/main/ZZZ%20Integrity%20Auto%20Patcher.zip)
 2. Extract all files from the `.zip`.
 
 ![extract](https://github.com/user-attachments/assets/bd013455-a53e-4f7c-9306-99c4cfb06c50)
