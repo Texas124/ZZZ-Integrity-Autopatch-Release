@@ -31,10 +31,10 @@ Example:
 - If you Encounter error fetching data, press `enter` to retry the fetches
 - If you put an incorrect path it will ask for the directory path again
 - Directory path wil be saved to `\main\game directory.txt`
-- This will not work if you dont have any `_remote` files inside `/persistent` folder.
+- This will not work if you dont have any `_remote` files inside `\persistent` folder.
 
 ## Updating
-1. If you have saved `game directory`, reopening app will automatically patch if necessary
+1. If you have saved `game directory`, opening `.exe` will automatically patch if necessary
 2. You can change game path by deleting `\main\game directory.txt` or just simply edit the path inside
 3. You might also need to update `\main\key.pem` and `\main\url.txt` later.
 
