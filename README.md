@@ -5,12 +5,13 @@
 - [Steps](#steps)
 - [Updating](#updating)
 - [Uninstallation](#uninstallation)
+- [Credits](#credits)
 
 ## Installation
 1. [Download release here](https://github.com/Texas124/ZZZ-Integrity-Autopatch-Release/raw/main/ZZZ%20Integrity%20Auto%20Patcher.zip)
 2. Extract all files from the `.zip`.
 
-![extract](https://github.com/user-attachments/assets/bd013455-a53e-4f7c-9306-99c4cfb06c50)
+![extract](https://github.com/user-attachments/assets/ce32f31d-256a-4a74-bac8-470bc5f540b8)
 
 ## Steps
 1. Make sure you encounter stuck 0% integrity verify files!
@@ -19,11 +20,11 @@
 
 You can get it from Hoyoplay:
 
-![directory](https://github.com/user-attachments/assets/16d15bf1-0c31-4e89-85b5-5f874eb0f9bd)
+![directory](https://github.com/user-attachments/assets/0f53c938-1b54-4729-92e9-52063a9ed904)
 
 Example:
 
-![example](https://github.com/user-attachments/assets/4fa3a4b2-7daf-4bcd-8eed-bb5b5991616e)
+![example](https://github.com/user-attachments/assets/634b54d1-0d07-4882-a5c9-e3201c7fc63f)
 
 4. Done!
 
