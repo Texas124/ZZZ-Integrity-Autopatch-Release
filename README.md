@@ -15,8 +15,7 @@
 ## Steps
 1. Make sure you encounter stuck 0% integrity verify files!
 2. Open the `.exe`
-3. Put your `{your drive}\ZenlessZoneZero Game` path and click `enter`
-
+3. Paste your game path (`{your drive}\ZenlessZoneZero Game`) and click `enter`
 
 You can get it from Hoyoplay:
 
@@ -35,12 +34,12 @@ Example:
 - This will not work if you dont have any `_remote` files inside `/persistent` folder.
 
 ## Updating
-1. If you have saved `game directory` reopening app will automatically update if necessary
-2. You can update game path by deleting `\main\game directory.txt` or just simply edit the path inside
+1. If you have saved `game directory`, reopening app will automatically patch if necessary
+2. You can change game path by deleting `\main\game directory.txt` or just simply edit the path inside
 3. You might also need to update `\main\key.pem` and `\main\url.txt` later.
 
 ## Uninstallation
-- Delete `.exe` and `main` folder
+- Delete `.exe` and `main` folder.
 
 ## Credits
-Thanks to [discord: arke8195](https://github.com/yeonjunq/IWALY_ZZZ) and [ZZZ Bug Help](https://discord.gg/9QEuAZNhfX) discord server.
+Thanks to [discord: arke8195](https://github.com/yeonjunq/IWALY_ZZZ) for the fetch link and decrypt key also [ZZZ Bug Help](https://discord.gg/9QEuAZNhfX) discord server.
