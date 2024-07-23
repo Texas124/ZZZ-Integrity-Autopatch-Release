@@ -46,6 +46,6 @@ Example:
 ## Credits
 Thanks to: 
 - [discord: arke8195](https://github.com/yeonjunq/IWALY_ZZZ) for the fetch link and decrypt key 
-- discord: wilgrand for helpiing with docs and troubleshooting
+- discord: wilgrand for helping with docs and troubleshooting
 - discord: integrated_graphics_card for finding the main issue
-- And all support from [ZZZ Bug Help](https://discord.gg/9QEuAZNhfX) discord server.
+And all support from [ZZZ Bug Help](https://discord.gg/9QEuAZNhfX) discord server.
