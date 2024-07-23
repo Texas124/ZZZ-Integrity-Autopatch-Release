@@ -29,6 +29,7 @@ Example:
 4. Done!
 
 ### Note
+- Run the `.exe` as admin if it crashes when patching
 - If you Encounter error fetching data, press `enter` to retry the fetches
 - If you put an incorrect path it will ask for the directory path again
 - Directory path wil be saved to `\main\game directory.txt`
