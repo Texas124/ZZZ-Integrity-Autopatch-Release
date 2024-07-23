@@ -37,11 +37,15 @@ Example:
 
 ## Updating
 1. If you have saved `game directory`, opening `.exe` will automatically patch if necessary
-2. You can change game path by deleting `\main\game directory.txt` or just simply edit the path inside
+2. You can change game path by deleting `game directory.txt` or just simply edit the path inside
 3. You might also need to update `\main\key.pem` and `\main\url.txt` later.
 
 ## Uninstallation
 - Delete `.exe` and `main` folder.
 
 ## Credits
-Thanks to [discord: arke8195](https://github.com/yeonjunq/IWALY_ZZZ) for the fetch link and decrypt key also [ZZZ Bug Help](https://discord.gg/9QEuAZNhfX) discord server.
+Thanks to: 
+- [discord: arke8195](https://github.com/yeonjunq/IWALY_ZZZ) for the fetch link and decrypt key 
+- discord: wilgrand for helpiing with docs and troubleshooting
+- discord: integrated_graphics_card for finding the main issue
+- And all support from [ZZZ Bug Help](https://discord.gg/9QEuAZNhfX) discord server.
