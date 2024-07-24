@@ -28,11 +28,9 @@ Example:
 
 4. Done!
 
-### Note
+### Having Trouble?
+- If the `.zip` or `.exe` disappear, disable your antivirus (you can enable again after patching) or add this program as exception
 - Run the `.exe` as admin if it crashes when patching
-- If you Encounter error fetching data, press `enter` to retry the fetches
-- If you put an incorrect path it will ask for the directory path again
-- Directory path wil be saved to `\main\game directory.txt`
 - This will not work if you dont have any `_remote` files inside `\persistent` folder.
 
 ## Updating
