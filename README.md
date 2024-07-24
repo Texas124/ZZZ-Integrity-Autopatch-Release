@@ -16,9 +16,9 @@
 ## Steps
 1. Make sure you encounter stuck 0% integrity verify files!
 2. Open the `.exe`
-3. Paste your game path (`{your drive}\ZenlessZoneZero Game`) and click `enter`
+3. Paste your game path and click `enter`
 
-You can get it from Hoyoplay:
+You can get game path from Hoyoplay:
 
 ![directory](https://github.com/user-attachments/assets/0f53c938-1b54-4729-92e9-52063a9ed904)
 
