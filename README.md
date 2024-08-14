@@ -1,5 +1,5 @@
 # ZZZ INTEGRITY AUTOPATCH RELEASE
-For Version 1.1.0 replace the link inside `url.txt` with the new link [here](https://raw.githubusercontent.com/Texas124/ZZZ-Integrity-Autopatch-Release/main/main/url.txt)
+For Version 1.1.0 open `main` folder and replace the link inside `url.txt` with: [copy this link](https://prod-gf-jp.zenlesszonezero.com/query_gateway?version=OSPRODWin1.1.0&rsa_ver=3&language=1&platform=3&seed=2beb82c1b5f9bd5c&channel_id=1&sub_channel_id=0)
 ## Table of Contents
 - [Installation](#installation)
 - [Steps](#steps)
