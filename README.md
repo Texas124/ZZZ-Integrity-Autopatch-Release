@@ -8,7 +8,7 @@ For Version 1.1.0 replace the `url.txt` with the new link [here](https://raw.git
 - [Credits](#credits)
 
 ## Installation
-1. [Download release here](https://github.com/Texas124/ZZZ-Integrity-Autopatch-Release/raw/main/ZZZ%20Integrity%20Auto%20Patcher.zip) (updated for 1.10)
+1. [Download release here](https://github.com/Texas124/ZZZ-Integrity-Autopatch-Release/raw/main/ZZZ%20Integrity%20Auto%20Patcher.zip) (updated for 1.1.0)
 2. Extract all files from the `.zip`.
 
 ![extract](https://github.com/user-attachments/assets/ce32f31d-256a-4a74-bac8-470bc5f540b8)
