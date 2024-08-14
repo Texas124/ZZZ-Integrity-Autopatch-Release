@@ -1,5 +1,5 @@
 # ZZZ INTEGRITY AUTOPATCH RELEASE
-For Version 1.1.0 replace the `url.txt` with the new link [here](https://raw.githubusercontent.com/Texas124/ZZZ-Integrity-Autopatch-Release/main/main/url.txt)
+For Version 1.1.0 replace the link inside `url.txt` with the new link [here](https://raw.githubusercontent.com/Texas124/ZZZ-Integrity-Autopatch-Release/main/main/url.txt)
 ## Table of Contents
 - [Installation](#installation)
 - [Steps](#steps)
