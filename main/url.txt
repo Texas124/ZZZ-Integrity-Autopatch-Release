@@ -1,1 +1,1 @@
-https://prod-gf-jp.zenlesszonezero.com/query_gateway?version=OSPRODWin1.0.0&rsa_ver=3&language=1&platform=3&seed=195fdb867197c041&channel_id=1&sub_channel_id=0
+https://prod-gf-jp.zenlesszonezero.com/query_gateway?version=OSPRODWin1.1.0&rsa_ver=3&language=1&platform=3&seed=2beb82c1b5f9bd5c&channel_id=1&sub_channel_id=0
