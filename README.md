@@ -5,7 +5,7 @@ For Version 1.2 open `main` folder and replace the link inside `url.txt` with: [
 - [Installation](#installation)
 - [Steps](#steps)
 - [Updating](#updating)
-- [Antivirus Bypass](#antivirus bypass)
+- [Antivirus Bypass](#antivirus)
 - [Uninstallation](#uninstallation)
 - [Credits](#credits)
 
