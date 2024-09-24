@@ -1,11 +1,11 @@
 # ZZZ INTEGRITY AUTOPATCH RELEASE
-For Version 1.2 open `main` folder and replace the link inside `url.txt` with: [copy this link](https://prod-gf-jp.zenlesszonezero.com/query_gateway?version=OSPRODWin1.2.0&rsa_ver=3&language=1&platform=3&seed=522b26e01f8e6005&channel_id=1&sub_channel_id=0)
+For version 1.2 open `main` folder and replace the link inside `url.txt` with: [copy this link](https://prod-gf-jp.zenlesszonezero.com/query_gateway?version=OSPRODWin1.2.0&rsa_ver=3&language=1&platform=3&seed=522b26e01f8e6005&channel_id=1&sub_channel_id=0)
 
 ## Table of Contents
 - [Installation](#installation)
 - [Steps](#steps)
 - [Updating](#updating)
-- [Antivirus Bypass](#antivirus)
+- [Antivirus Bypass](#antivirus-bypass)
 - [Uninstallation](#uninstallation)
 - [Credits](#credits)
 
