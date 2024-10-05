@@ -100,7 +100,7 @@ def load_private_key_from_string(key_str):
     private_key = RSA.importKey(key_str)
     return private_key
 
-private_key_str = '''check on key.pem on the repository'''
+private_key_str = '''insert key here'''
 
 private_key = load_private_key_from_string(private_key_str)
 encrypted_value_base64 = "content"
