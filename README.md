@@ -1,5 +1,5 @@
 # ZZZ INTEGRITY AUTOPATCH RELEASE
-This release doesn't require you to replace url
+This release doesn't require you to replace url. Make sure you have the game up to date from the launcher
 
 This is the last release except there is an issue!
 
@@ -12,9 +12,7 @@ This is the last release except there is an issue!
 
 ## Installation
 1. [Download release here](https://github.com/Texas124/ZZZ-Integrity-Autopatch-Release/raw/main/ZZZ%20Integrity%20Auto%20Patcher.zip)
-2. Extract all files from the `.zip`.
-
-![extract](https://github.com/user-attachments/assets/ce32f31d-256a-4a74-bac8-470bc5f540b8)
+2. Extract the `.exe` from the `.zip`.
 
 ## Steps
 1. Make sure you encounter stuck 0% integrity verify files!
@@ -32,10 +30,10 @@ Example:
 4. Done!
 
 ### Having Trouble?
+- Make sure you have the game up to date from the launcher
 - If you have invalid path, you can change game patch by deleting `main\game directory.txt` or edit the path inside
 - If the `.zip` or `.exe` disappear, disable your antivirus (you can enable again after patching) or add this program as exception
 - Run the `.exe` as admin if it crashes when patching
-- Make sure you have the game up to date from the launcher
 - This will not work if you dont have any `_remote` files inside `\persistent` folder.
 
 ## Antivirus Bypass
